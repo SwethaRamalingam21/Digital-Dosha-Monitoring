@@ -1,5 +1,7 @@
-streamlit
-pandas
-excel
 os
 plotly.express
+streamlit
+pandas
+openpyxl
+matplotlib
+plotly
