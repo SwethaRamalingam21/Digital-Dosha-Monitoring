@@ -1,5 +1,5 @@
 streamlit
 pandas
-zipfile
+excel
 os
 plotly.express
